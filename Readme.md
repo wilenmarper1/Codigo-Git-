@@ -9,3 +9,11 @@
 7. git commit --amend  // Sirve para corregir el nombre del commit
                         // Para salir luego de modificar presionamos ESCAPE, luego :wq!
 9. git commit -am  //Nos hace dos pasos al tiempo add y colocar nombre                        
+10. git remote remove origin
+
+Bonus
+
+GitHub es un lugar en la nube.
+Repositorio: lugar en donde se irán almacenando los archivos de nuestro proyecto y a través del cual podremos hacer seguimiento de los mismos.
+Remotos: viven en la nube, es decir, en GitHub.
+Locales: viven en nuestra computadora.
